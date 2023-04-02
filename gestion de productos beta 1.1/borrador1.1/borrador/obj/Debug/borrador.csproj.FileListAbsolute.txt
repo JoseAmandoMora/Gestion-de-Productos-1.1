@@ -1,0 +1,44 @@
+C:\Users\gipso\source\repos\borrador\borrador\bin\Debug\borrador.exe.config
+C:\Users\gipso\source\repos\borrador\borrador\bin\Debug\borrador.exe
+C:\Users\gipso\source\repos\borrador\borrador\bin\Debug\borrador.pdb
+C:\Users\gipso\source\repos\borrador\borrador\obj\Debug\borrador.csproj.AssemblyReference.cache
+C:\Users\gipso\source\repos\borrador\borrador\obj\Debug\borrador.csproj.SuggestedBindingRedirects.cache
+C:\Users\gipso\source\repos\borrador\borrador\obj\Debug\borrador.Properties.Resources.resources
+C:\Users\gipso\source\repos\borrador\borrador\obj\Debug\borrador.csproj.GenerateResource.cache
+C:\Users\gipso\source\repos\borrador\borrador\obj\Debug\borrador.csproj.CoreCompileInputs.cache
+C:\Users\gipso\source\repos\borrador\borrador\obj\Debug\borrador.exe
+C:\Users\gipso\source\repos\borrador\borrador\obj\Debug\borrador.pdb
+C:\Users\gipso\source\repos\borrador\borrador\obj\Debug\borrador.Form2.resources
+C:\Users\USUARIO\Desktop\GestionDeProductos-Beta-main\borrador\borrador\bin\Debug\borrador.exe.config
+C:\Users\USUARIO\Desktop\GestionDeProductos-Beta-main\borrador\borrador\bin\Debug\borrador.exe
+C:\Users\USUARIO\Desktop\GestionDeProductos-Beta-main\borrador\borrador\bin\Debug\borrador.pdb
+C:\Users\USUARIO\Desktop\GestionDeProductos-Beta-main\borrador\borrador\obj\Debug\borrador.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\GestionDeProductos-Beta-main\borrador\borrador\obj\Debug\borrador.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\Desktop\GestionDeProductos-Beta-main\borrador\borrador\obj\Debug\borrador.Form2.resources
+C:\Users\USUARIO\Desktop\GestionDeProductos-Beta-main\borrador\borrador\obj\Debug\borrador.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\GestionDeProductos-Beta-main\borrador\borrador\obj\Debug\borrador.csproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\GestionDeProductos-Beta-main\borrador\borrador\obj\Debug\borrador.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\GestionDeProductos-Beta-main\borrador\borrador\obj\Debug\borrador.exe
+C:\Users\USUARIO\Desktop\GestionDeProductos-Beta-main\borrador\borrador\obj\Debug\borrador.pdb
+C:\Users\USUARIO\Desktop\viejo promgram\borrador\borrador\bin\Debug\borrador.exe.config
+C:\Users\USUARIO\Desktop\viejo promgram\borrador\borrador\bin\Debug\borrador.exe
+C:\Users\USUARIO\Desktop\viejo promgram\borrador\borrador\bin\Debug\borrador.pdb
+C:\Users\USUARIO\Desktop\viejo promgram\borrador\borrador\obj\Debug\borrador.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\viejo promgram\borrador\borrador\obj\Debug\borrador.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\Desktop\viejo promgram\borrador\borrador\obj\Debug\borrador.Form2.resources
+C:\Users\USUARIO\Desktop\viejo promgram\borrador\borrador\obj\Debug\borrador.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\viejo promgram\borrador\borrador\obj\Debug\borrador.csproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\viejo promgram\borrador\borrador\obj\Debug\borrador.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\viejo promgram\borrador\borrador\obj\Debug\borrador.exe
+C:\Users\USUARIO\Desktop\viejo promgram\borrador\borrador\obj\Debug\borrador.pdb
+C:\Users\USUARIO\Desktop\gestion de productos beta 1.1\borrador1.1\borrador\bin\Debug\borrador.exe.config
+C:\Users\USUARIO\Desktop\gestion de productos beta 1.1\borrador1.1\borrador\bin\Debug\borrador.exe
+C:\Users\USUARIO\Desktop\gestion de productos beta 1.1\borrador1.1\borrador\bin\Debug\borrador.pdb
+C:\Users\USUARIO\Desktop\gestion de productos beta 1.1\borrador1.1\borrador\obj\Debug\borrador.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\gestion de productos beta 1.1\borrador1.1\borrador\obj\Debug\borrador.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\Desktop\gestion de productos beta 1.1\borrador1.1\borrador\obj\Debug\borrador.Form2.resources
+C:\Users\USUARIO\Desktop\gestion de productos beta 1.1\borrador1.1\borrador\obj\Debug\borrador.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\gestion de productos beta 1.1\borrador1.1\borrador\obj\Debug\borrador.csproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\gestion de productos beta 1.1\borrador1.1\borrador\obj\Debug\borrador.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\gestion de productos beta 1.1\borrador1.1\borrador\obj\Debug\borrador.exe
+C:\Users\USUARIO\Desktop\gestion de productos beta 1.1\borrador1.1\borrador\obj\Debug\borrador.pdb
